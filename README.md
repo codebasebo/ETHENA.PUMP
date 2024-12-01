@@ -23,7 +23,7 @@ Many stablecoins undergo regular audits and maintain reserves to ensure their va
 These benefits make stablecoins a practical choice for trading and financial transactions, offering a balance between the advantages of cryptocurrencies and the stability of traditional financial assets.
 
 ## Site Link
-https://frontend-codebasebo-royals-projects-ffbaec3e.vercel.app/
+https://frontend-codebasebo-royals-projects-ffbaec3e.vercel.app
 
 ## Table of Contents
 
