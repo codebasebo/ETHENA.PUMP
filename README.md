@@ -25,6 +25,10 @@ These benefits make stablecoins a practical choice for trading and financial tra
 ## Site Link
 https://frontend-codebasebo-royals-projects-ffbaec3e.vercel.app
 
+## Faucet For Mock USDe
+https://eth-sepolia.blockscout.com/address/0x6A2dEb1e986280e33d4f4246183b235cB20bde0d?tab=read_write_contract
+
+
 ## Table of Contents
 
 1. [Introduction](#ethenapump)
