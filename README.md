@@ -1,7 +1,7 @@
 
 # ETHENA.PUMP
 
-Introduction
+## Introduction
 Ethena.Pump is a revolutionary platform enabling users to trade meme tokens using USDe, a stablecoin pegged to the USD. With a user-friendly interface and advanced features, Ethena.Pump empowers users to create, buy, and trade meme tokens seamlessly. The platform leverages an exponential bonding curve pricing mechanism, ensuring fair token pricing based on supply dynamics. The architecture comprises two primary components: the Frontend and the Hardhat Folder.
 
 Using a stable currency like USDe instead of volatile assets like Solana or Ethareum provides key advantages:
